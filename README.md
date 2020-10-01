@@ -7,6 +7,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-@danigunawan-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://#)](https://#) 
 [![Medium Badge](https://img.shields.io/badge/-@danigunawan-14c767?style=flat-square&labelColor=14c767&logo=Medium&link=https://medium.com/@danigunawan)](https://medium.com/@danigunawan) 
 [![LinkedIn Badge](https://img.shields.io/badge/-@danigunawan-0e76a8?style=flat-square&labelColor=0e76a8&logo=LinkedIn&link=https://www.linkedin.com/in/danigunawan/)](https://www.linkedin.com/in/dani-gunawan/)
+[![Instagram Badge](https://img.shields.io/badge/-@-red?style=flat-square&labelColor=orange&logo=Instagram&link=#)](https://#)
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=danigunawan.profile.id)
 
