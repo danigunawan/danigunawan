@@ -10,7 +10,7 @@
 
 ## I'm a Cook & Badminton Player !
 - 🔭 I’m currently working on an ** Anonymous Platform**
-- 🌱 I’m currently learning **MLSec** 📈
+- 🌱 I’m currently learning **AISec** 📈
 - 💬 Ask me about **PHP,Ruby On Rails, Git and Python**
 - 🥅 2020 Goals: Contribute more to Open Source projects, hmm... little little i can
 - ⚡ Fun fact: I'm a **certified "engkle"sundanese cultural games** ⛰️
