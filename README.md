@@ -2,7 +2,7 @@
 ----------------------
 
 
-![](https://img.shields.io/badge/Engineering%20-Telco%20-blue)  ![](https://img.shields.io/badge/Studying%20-AI%20Scientist%20-brightgreen)  ![](https://img.shields.io/badge/Love-Innovation | Creation -yellow)    
+![](https://img.shields.io/badge/Engineering%20-Telco%20-blue)  ![](https://img.shields.io/badge/Studying%20-AI%20Scientist%20-brightgreen)  ![](https://img.shields.io/badge/Love-Innovation|Creation-yellow)    
 [![Website Badge](https://img.shields.io/badge/-danigunawan.my.id-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://danigunawan.my.id)](http://danigunawan.my.id) 
 [![Twitter Badge](https://img.shields.io/badge/-@danigunawan-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://#)](https://#) 
 [![Medium Badge](https://img.shields.io/badge/-@danigunawan-14c767?style=flat-square&labelColor=14c767&logo=Medium&link=https://medium.com/@danigunawan)](https://medium.com/@danigunawan) 
