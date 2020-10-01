@@ -1,7 +1,7 @@
 👋 Hello! I'm [Dani Gunawan](http://danigunawan.github.io/)
 ----------------------
 
-[![Website Badge](https://img.shields.io/badge/-danigunawan.my.id-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://danigunawan.my.id)](https://danigunawan.my.id) 
+[![Website Badge](https://img.shields.io/badge/-danigunawan.my.id-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://danigunawan.my.id)](http://danigunawan.my.id) 
 [![Twitter Badge](https://img.shields.io/badge/-@danigunawan-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://#)](https://#) 
 [![Medium Badge](https://img.shields.io/badge/-@danigunawan-14c767?style=flat-square&labelColor=14c767&logo=Medium&link=https://medium.com/@danigunawan)](https://medium.com/@danigunawan) 
 [![LinkedIn Badge](https://img.shields.io/badge/-@danigunawan-0e76a8?style=flat-square&labelColor=0e76a8&logo=LinkedIn&link=https://www.linkedin.com/in/danigunawan/)](https://www.linkedin.com/in/dani-gunawan/)
