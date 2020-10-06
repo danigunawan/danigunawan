@@ -1,4 +1,4 @@
-👋 Hapunten! I'm [Dani Gunawan as Dadan](http://danigunawan.github.io/)
+👋 Hapunten! I'm [Dani Gunawan](http://danigunawan.github.io/)
 ----------------------
 
 
