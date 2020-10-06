@@ -49,19 +49,15 @@
 <br>
 <br>
 <a href="https://github.com/danigunawan">
+  <img src="https://github-readme-stats.vercel.app/api?username=danigunawan&hide=prs&layout=compact&show_icons=true&theme=buefy" />
+</a>
+
+<a href="https://github.com/danigunawan">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigunawan&layout=compact&show_icons=true&theme=buefy" />
 </a>
 <br>
 
-<h2> STATS </h2>
-<br>
-<a href="https://github.com/danigunawan">
-  <img src="https://github-readme-stats.vercel.app/api?username=danigunawan&hide=prs&layout=compact&show_icons=true&theme=buefy" />
-</a>
-<br>
-
 <h2> Check out my recent repositories</h2>
-<br>
 <a href="https://github.com/danigunawan/dgo-cms">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=danigunawan&repo=dgo-cms&layout=compact&show_icons=true&theme=buefy" />
 </a>
