@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hapunten! I'm [Dani Gunawan](http://danigunawan.github.io/)</h1>
+👋 Hapunten! I'm [Dani Gunawan](http://danigunawan.github.io/)
 ----------------------
 
 
@@ -21,7 +21,7 @@
 - 📫 How to reach me: hi@danigunawan.my.id
 - 📝 Check out my **[Resume](https://daniguanwan.github.io/my-resume/resume.pdf)**
 
-<h1 align="center"> ## 🚀 Languages and Tools: </h1>
+## 🚀 Languages and Tools:
 
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"/>
