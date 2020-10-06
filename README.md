@@ -45,3 +45,45 @@
 <img align="left" alt="gcp" width="26px" src="https://parshnt.github.io/assets/icons/gcp.png" />
 <img align="left" alt="Digital-ocean" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/240px-DigitalOcean_logo.svg.png" />
 <img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" />
+
+<br>
+
+<a href="https://github.com/danigunawan">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigunawan&layout=compact&show_icons=true&theme=buefy" />
+</a>
+
+<a href="https://github.com/danigunawan">
+  <img src="https://github-readme-stats.vercel.app/api?username=danigunawan&hide=prs&layout=compact&show_icons=true&theme=buefy" />
+</a>
+<br>
+<h2> Check out my recent repositories</h2>
+<br>
+<a href="https://github.com/danigunawan/dgo-cms">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danigunawan&repo=dgo-cms&layout=compact&show_icons=true&theme=buefy" />
+</a>
+<br>
+
+<h3> Get in touch, mate.</h3>
+
+<a href="#" target="_blank">
+  <img align="left" alt="Dani Gunawan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:hi@danigunawan.my.id" target="_blank">
+  <img align="left" alt="Mail me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="#" target="_blank">
+  <img align="left" alt="DG's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="#" target="_blank">
+  <img align="left" alt="DG's youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="#" target="_blank">
+  <img align="left" alt="DG Kokkula | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="#" target="_blank">
+  <img align="left" alt="DG's youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
+<a href="#" target="_blank">
+  <img align="left" alt="DG Kokkula | Tableay" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />
+</a>
+<br>
