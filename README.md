@@ -1,7 +1,5 @@
-👋 Hello! I'm [Dani Gunawan](http://danigunawan.github.io/)
+<h1 align="center">👋 Hapunten! I'm [Dani Gunawan](http://danigunawan.github.io/)</h1>
 ----------------------
-
-
 ![](https://img.shields.io/badge/Engineering%20-Telco%20-blue)  ![](https://img.shields.io/badge/Studying%20-AI%20Scientist%20-brightgreen)  ![](https://img.shields.io/badge/Love-Innovation|Creation|Improvisation|Exploration-yellow)    
 [![Website Badge](https://img.shields.io/badge/-danigunawan.my.id-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://danigunawan.my.id)](http://danigunawan.my.id) 
 [![Twitter Badge](https://img.shields.io/badge/-@danigunawan-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://#)](https://#) 
@@ -12,7 +10,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=danigunawan.profile.id)
 
-## I'm a Cook & Badminton Player !
+<h1 align="center"> ## I'm a Cook & Badminton Player ! </h1>
 - 🔭 I’m currently working on an ** Anonymous Platform**
 - 🌱 I’m currently learning **AISec** 📈
 - 💬 Ask me about **PHP,Ruby On Rails, Git and Python**
@@ -21,7 +19,7 @@
 - 📫 How to reach me: hi@danigunawan.my.id
 - 📝 Check out my **[Resume](https://daniguanwan.github.io/my-resume/resume.pdf)**
 
-## 🚀 Languages and Tools:
+<h1 align="center"> ## 🚀 Languages and Tools: </h1>
 
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"/>
