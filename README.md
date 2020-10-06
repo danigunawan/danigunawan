@@ -48,15 +48,15 @@
 
 <br>
 <br>
-<a href="https://github.com/danigunawan">
-  <img src="https://github-readme-stats.vercel.app/api?username=danigunawan&hide=prs&layout=compact&show_icons=true&theme=buefy" />
-</a>
-
-<br>
-<br>
+<hr>
 
 <a href="https://github.com/danigunawan">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigunawan&layout=compact&show_icons=true&theme=buefy" />
+</a>
+<hr>
+
+<a href="https://github.com/danigunawan">
+  <img src="https://github-readme-stats.vercel.app/api?username=danigunawan&hide=prs&layout=compact&show_icons=true&theme=buefy" />
 </a>
 
 <h2> Check out my recent repositories</h2>
@@ -64,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=danigunawan&repo=dgo-cms&layout=compact&show_icons=true&theme=buefy" />
 </a>
 
-<h3> Get in touch, mate.</h3>
+<h3> Get in touch.</h3>
 
 <a href="#" target="_blank">
   <img align="left" alt="Dani Gunawan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
