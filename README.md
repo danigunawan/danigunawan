@@ -12,7 +12,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=danigunawan.profile.id)
 
-<h1 align="center"> ## I'm a Cook & Badminton Player ! </h1>
+## I'm a Cook & Badminton Player !
 - 🔭 I’m currently working on an ** Anonymous Platform**
 - 🌱 I’m currently learning **AISec** 📈
 - 💬 Ask me about **PHP,Ruby On Rails, Git and Python**
