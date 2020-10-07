@@ -45,7 +45,7 @@
 <img align="left" alt="gcp" width="26px" src="https://parshnt.github.io/assets/icons/gcp.png" />
 <img align="left" alt="Digital-ocean" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/240px-DigitalOcean_logo.svg.png" />
 <img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" />
-
+<br>
 <br>
 <a href="https://github.com/danigunawan">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigunawan&layout=compact&show_icons=true&theme=buefy" />
