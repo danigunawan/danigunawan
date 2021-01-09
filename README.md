@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on an ** Anonymous Platform**
 - 🌱 I’m currently learning **AISec** 📈
 - 💬 Ask me about **PHP,Ruby On Rails, Git and Python**
-- 🥅 2020 Goals: Contribute more to Open Source projects, hmm... little little i can
+- 🥅 2020 - Now Goals: Contribute more to Open Source projects, hmm... little little i can
 - ⚡ Fun fact: I'm a **certified "engkle"sundanese cultural games** ⛰️
 - 📫 How to reach me: hi@danigunawan.my.id
 - 📝 Check out my **[Resume](https://daniguanwan.github.io/my-resume/resume.pdf)**
