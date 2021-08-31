@@ -15,7 +15,7 @@
 ## I'm a Cook & Badminton Player !
 - 🔭 I’m currently working on an ** Anonymous Platform**
 - 🌱 I’m currently learning **AISec** 📈
-- 💬 Ask me about **PHP,Ruby On Rails, Git and Python**
+- 💬 Ask me about **Ruby On Rails, Go, PHP, Python and Distributed Platform**
 - 🥅 2020 - Now Goals: Contribute more to Open Source projects, hmm... little little i can
 - ⚡ Fun fact: I'm a **certified "engkle"sundanese cultural games** ⛰️
 - 📫 How to reach me: hi@danigunawan.my.id
