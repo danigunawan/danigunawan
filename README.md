@@ -14,7 +14,7 @@
 
 ## I'm a Cook & Badminton Player !
 - 🔭 I’m currently working on an ** Anonymous Platform**
-- 🌱 I’m currently learning **AIOps, AISec and Computer Vision Platform** 📈
+- 🌱 I’m currently learning **AIOps, MlOps, AISec, Code Obfuscation, and Computer Vision Platform** 📈
 - 💬 Ask me about **Ruby On Rails, Go, PHP, Python and Distributed Platform**
 - 🥅 2020 - Now Goals: Contribute more to Open Source projects, hmm... little little i can
 - ⚡ Fun fact: I'm a **certified "engkle"sundanese cultural games** ⛰️
