@@ -21,6 +21,11 @@
 - 📫 How to reach me: hi@danigunawan.my.id
 - 📝 Check out my **[Resume](https://danigunawan.github.io/my-resume/resume.pdf)**
 
+----------
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=danigunawan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 🚀 Languages and Tools:
 
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
