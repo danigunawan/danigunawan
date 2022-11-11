@@ -9,7 +9,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-@danigunawan-0e76a8?style=flat-square&labelColor=0e76a8&logo=Gitee&link=https://www.linkedin.com/in/dani-gunawan/)](https://www.linkedin.com/in/dani-gunawan/)
 [![Gitee Badge](https://img.shields.io/badge/-@Gitee-red?style=flat-square&labelColor=orange&logo=github&link=https://gitee.com/danigunawan/)](https://gitee.com/danigunawan/)
 [![PYPI Badge](https://img.shields.io/badge/-@pypi-blue?style=flat-square&labelColor=yellow&logo=python&link=https://pypi.org/user/danigunawan/)](https://pypi.org/user/danigunawan/)
-[![Website Badge](https://img.shields.io/badge/-dev.to/danigunawan-4E69C8?style=flat-square&labelColor=4E69C8&logo=Chrome&link=https://dev.to/danigunawan)](http://dev.to/danigunawan) 
+[![Website Badge](https://img.shields.io/badge/-dev.to/danigunawan-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://dev.to/danigunawan)](http://dev.to/danigunawan) 
 
 
 https://dev.to/danigunawan
