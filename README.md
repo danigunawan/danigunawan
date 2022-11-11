@@ -15,12 +15,12 @@
 
 ## I'm a Cook & Badminton Player !
 - 🔭 I’m currently working on an ** HiyaHiya Engineers * :D just jokes *
-- 🌱 I’m currently learning ** AI/MLSecOps Level 1-3, Code Obfuscation & License, SAAS and Computer Vision Platform** 📈
+- 🌱 I’m currently learning ** AI/MLOps Level 1-3, MLSecOps, Code Obfuscation & License, SAAS and Computer Vision Platform** 📈
 - 💬 Ask me about a cooking : **Ruby On Rails, Go, PHP, Python and Distributed Platform**
 - 🥅 2020 - Now Goals: Contribute more to Open Source projects, hmm... little little i can
 - ⚡ Fun fact: I'm a **certified "engkle"sundanese cultural games** ⛰️
 - 📫 How to reach me: hi@danigunawan.my.id
-- 📝 Check out my **[Resume](https://danigunawan.github.io/my-resume/resume.pdf)**
+- 📝 Check out my **[Resume](https://danigunawan.github.io/about/)**
 
 ----------
 
