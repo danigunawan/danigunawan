@@ -76,6 +76,14 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=danigunawan&repo=dgo-cms&layout=compact&show_icons=true&theme=dark" />
 </a>
 
+<br>
+<br>
+
+<a href="https://github.com/danigunawan">
+  <img src="https://metrics.lecoq.io/danigunawan" />
+</a>
+
+
 ## Get In Touch
 
 <a href="#" target="_blank">
