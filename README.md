@@ -49,6 +49,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <a href="https://github.com/danigunawan">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigunawan&layout=compact&show_icons=true&theme=dark" />
 </a>
@@ -57,8 +59,10 @@
 <a href="https://github.com/danigunawan">
   <img src="https://github-readme-stats.vercel.app/api?username=danigunawan&hide=prs&layout=compact&show_icons=true&theme=dark" />
 </a>
-
-
+<br>
+<br>
+<br>
+<br>
 <a href="https://github.com/danigunawan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=danigunawan&theme=dark" />
   
