@@ -58,8 +58,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=danigunawan&hide=prs&layout=compact&show_icons=true&theme=dark" />
 </a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=danigunawan&theme=dark)  
 
+<a href="https://github.com/danigunawan">
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=danigunawan&theme=dark)  
+</a>
 
 <h2> Check out my recent repositories</h2>
 <a href="https://github.com/danigunawan/dgo-cms">
