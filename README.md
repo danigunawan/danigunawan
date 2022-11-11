@@ -11,8 +11,6 @@
 [![PYPI Badge](https://img.shields.io/badge/-@pypi-blue?style=flat-square&labelColor=yellow&logo=python&link=https://pypi.org/user/danigunawan/)](https://pypi.org/user/danigunawan/)
 [![Website Badge](https://img.shields.io/badge/-danigunawan.github.io-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://danigunawan.github.io)](http://danigunawan.github.io) 
 
-https://dev.to/danigunawan
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=danigunawan.profile.id)
 
 ## I'm a Cook & Badminton Player !
