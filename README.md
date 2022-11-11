@@ -79,9 +79,7 @@
 <br>
 <br>
 
-<a href="https://github.com/danigunawan">
-  <img src="https://metrics.lecoq.io/danigunawan" />
-</a>
+![GitHub metrics](https://metrics.lecoq.io/danigunawan)  
 
 
 ## Get In Touch
