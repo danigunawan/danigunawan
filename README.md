@@ -1,7 +1,6 @@
 👋 Hapunten! I'm [Dani Gunawan](http://danigunawan.github.io/)
 ----------------------
 
-
 ![](https://img.shields.io/badge/Engineering%20-Telco%20-blue)  ![](https://img.shields.io/badge/Studying%20-ML/AI%20SecOps%20-brightgreen) ![](https://img.shields.io/badge/Love-Innovation|Creation|Improvisation|Exploration-yellow)    
 [![Website Badge](https://img.shields.io/badge/-danigunawan.github.io-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://danigunawan.github.io)](http://danigunawan.github.io) 
 [![Twitter Badge](https://img.shields.io/badge/-@danigunawan-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://#)](https://#) 
@@ -13,6 +12,11 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=danigunawan.profile.id)
 
+### I'm currently listening to 🎧
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=9qoi52ssv36ip8zy92yal0lfk&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=9qoi52ssv36ip8zy92yal0lfk&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=false)]]
+
+----------
 ## I'm a Cook & Badminton Player !
 - 🔭 I’m currently working on an ** HiyaHiya Engineers * :D just jokes *
 - 🌱 I’m currently learning ** AI/MLOps Level 1-3, MLSecOps, Code Obfuscation & License, SAAS and Computer Vision Platform** 📈
