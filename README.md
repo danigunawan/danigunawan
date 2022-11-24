@@ -1,4 +1,23 @@
-👋 Hapunten! I'm [Dani Gunawan](http://danigunawan.github.io/)
+### Hapunten! I'm Dani Gunawan you can call me dadan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> :robot: :coffee: :computer: :tada:
+
+I'm a Data Scientist based in Indonesia, Jakarta , West Java - Sundanese :D
+
+<hr>
+
+### 📢 Find me elsewhere
+
+<p align="center">
+  <a href="https://discord.com/">
+    <img src="https://badges.aleen42.com/src/discord.svg">
+  </a>
+  <a href="https://slack.com/">
+    <img src="https://badges.aleen42.com/src/slack.svg">
+  </a>
+  <a href="https://store.steampowered.com/">
+    <img src="https://badges.aleen42.com/src/steam.svg">
+  </a>  
+</p>
+<hr>
 ----------------------
 
 ![](https://img.shields.io/badge/Engineering%20-Telco%20-blue)  ![](https://img.shields.io/badge/Studying%20-ML/AI%20SecOps%20-brightgreen) ![](https://img.shields.io/badge/Love-Innovation|Creation|Improvisation|Exploration-yellow)    
