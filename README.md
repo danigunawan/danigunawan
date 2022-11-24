@@ -18,7 +18,6 @@ I'm a Data Scientist based in Indonesia, Jakarta , West Java - Sundanese :D
   </a>  
 </p>
 <hr>
-----------------------
 
 ![](https://img.shields.io/badge/Engineering%20-Telco%20-blue)  ![](https://img.shields.io/badge/Studying%20-ML/AI%20SecOps%20-brightgreen) ![](https://img.shields.io/badge/Love-Innovation|Creation|Improvisation|Exploration-yellow)    
 [![Website Badge](https://img.shields.io/badge/-danigunawan.github.io-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://danigunawan.github.io)](http://danigunawan.github.io) 
