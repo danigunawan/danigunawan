@@ -16,6 +16,9 @@ I'm a Data Scientist based in Indonesia, Jakarta , West Java - Sundanese :D
   <a href="https://store.steampowered.com/">
     <img src="https://badges.aleen42.com/src/steam.svg">
   </a>  
+    <a href="https://t.me/dani_gunawan">
+    <img src="https://badges.aleen42.com/src/telegram.svg">
+  </a>  
 </p>
 <hr>
 
