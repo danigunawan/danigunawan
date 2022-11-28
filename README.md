@@ -1,4 +1,4 @@
-### Hapunten! I'm Dani Gunawan you can call me dadan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> :robot: :coffee: :computer: :tada:
+### Hapunten! My Name is Dani Gunawan you can call me dadan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> :robot: :coffee: :computer: :tada:
 
 I'm a Data Scientist based in Indonesia, Jakarta , West Java - Sundanese :D
 
