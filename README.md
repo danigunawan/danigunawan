@@ -1,6 +1,8 @@
 ### Hapunten... My Name is Dani Gunawan you can call me dadan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> :robot: :coffee: :computer: :tada:
 
-I'm a Data Scientist based in Indonesia, Jakarta , West Java - Sundanese :D
+Experienced in designing, implementing, and managing advanced AI solutions by combining expertise in programming, data processing, architectural solutions, and infrastructure engineering. Committed to delivering innovative and scalable technical solutions. 
+
+I'm a based in Indonesia, Jakarta , West Java - Sundanese :D
 
 <hr>
 
