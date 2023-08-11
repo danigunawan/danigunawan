@@ -2,7 +2,7 @@
 
 Experienced in designing, implementing, and managing advanced AI solutions by combining expertise in programming, data processing, architectural solutions, and infrastructure engineering. Committed to delivering innovative and scalable technical solutions. 
 
-I'm a based in Indonesia, Jakarta , West Java - Sundanese :D
+I'm a based in Indonesia, Bogor , West Java - Sundanese :D
 
 <hr>
 
