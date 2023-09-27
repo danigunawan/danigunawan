@@ -42,7 +42,7 @@ I'm a based in Indonesia, Bogor , West Java - Sundanese :D
 ----------
 ## I'm a Cook & Badminton Player !
 - 🔭 I’m currently working on an ** HiyaHiya Engineers * :D just jokes *
-- 🌱 I’m currently learning ** AI/MLOps Level 0-4, MLSecOps, Code Obfuscation & License, SAAS and Computer Vision Platform** 📈
+- 🌱 I’m currently learning ** Cloud Infra, AI/MLOps Level 0-4, MLSecOps, Code Obfuscation & License, SAAS and Computer Vision Platform** 📈
 - 💬 Ask me about a cooking : **Ruby On Rails, Go, PHP, Python, Distributed Platform and mores**
 - 🥅 2020 - Now Goals: Contribute more to Open Source projects, hmm... little little i can
 - ⚡ Fun fact: I'm a **certified "engkle"sundanese cultural games** ⛰️
